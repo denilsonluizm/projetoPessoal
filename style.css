@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-family: 'Dancing Script', cursive;
+    font-size: large;
+    margin: 10px;
+    background-color: rgb(141, 219, 219);
+    text-shadow: 3px 2px 7px  rgb(78, 48, 12);
+}
+
+p:hover {
+    background-color: azure;
+}
+
+.tituloImportante {
+    background-color: bisque;
+    font-family: 'Dancing Script', cursive;
+}
+
+.subTituloImportante {
+    background-color: cadetblue;
+}
+
+#figura1 {
+    height: 15%;
+    width: 15%;
+}
+
+#figura2 {
+    height: 15%;
+    width: 15%;
+}
+
+#figura3 {
+    height: 15%;
+    width: 15%;
+}
+
+.imagem {
+    border: 4px;
+    border-style: groove;
+    border-color: cornflowerblue;
+}
+
+html {
+    font-size: large;
+}
+
+#textoDestacado {
+    color: blueviolet;
+    font-size: 1rem;
+}
+
